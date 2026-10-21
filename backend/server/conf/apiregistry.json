@@ -1,5 +1,6 @@
 {
 "/__org_monkshu__release" : "/apis/release.js?get=true",
 "/__org_monkshu__blackboard" : "/lib/blackboard.js?reloadOnDebug=false",
-"/__org_monkshu__globalmem" : "/apis/globalmem.js"
+"/__org_monkshu__globalmem" : "/apis/globalmem.js",
+"/dnsmasq" : "/apis/dnsmasq.js?needsToken=true&reloadOnDebug=false"
 }

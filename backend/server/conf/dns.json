@@ -1,0 +1,11 @@
+{
+    "host": "127.0.0.1",
+    "port": 5380,
+    "secure": false,
+    "recordsPath": "/records",
+    "headers": {},
+    "timeout": 10000,
+    "sslOptions": {
+        "rejectUnauthorized": true
+    }
+}
